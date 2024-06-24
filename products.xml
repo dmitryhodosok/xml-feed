@@ -12,7 +12,7 @@
         <name>Sample Product 2</name>
         <description>This is another sample product description.</description>
         <price>29.99</price>
-        <category>Home & Kitchen</category>
+        <category>Home Kitchen</category>
         <availability>Out of Stock</availability>
     </product>
 </products>
