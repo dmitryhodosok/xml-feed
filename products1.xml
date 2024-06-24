@@ -1,0 +1,69 @@
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<script/>
+<products>
+    <product>
+        <ProductSKU>
+            <![CDATA[ sku101 ]]>
+        </ProductSKU>
+        <ProductName>
+            <![CDATA[ Example Product 101 ]]>
+        </ProductName>
+        <Description>
+            <![CDATA[ Description of Example Product 101, a high-quality item. ]]>
+        </Description>
+        <Category>
+            <![CDATA[ Electronics ]]>
+        </Category>
+        <Price>200</Price>
+        <CompareAtPrice>220</CompareAtPrice>
+        <ProductURL>
+            <![CDATA[ https://examplestore.com/product101 ]]>
+        </ProductURL>
+        <ManufacturerSKU>
+            <![CDATA[ manu101 ]]>
+        </ManufacturerSKU>
+        <ManufacturerName>
+            <![CDATA[ Brand X ]]>
+        </ManufacturerName>
+        <EAN>
+            <![CDATA[ 1234567890123 ]]>
+        </EAN>
+        <Quantity>25</Quantity>
+        <ImageURL>
+            <![CDATA[ https://examplestore.com/images/product101.jpg ]]>
+        </ImageURL>
+    </product>
+    <product>
+        <ProductSKU>
+            <![CDATA[ sku102 ]]>
+        </ProductSKU>
+        <ProductName>
+            <![CDATA[ Example Product 102 ]]>
+        </ProductName>
+        <Description>
+            <![CDATA[ Detailed description for Example Product 102. Great for outdoor use. ]]>
+        </Description>
+        <Category>
+            <![CDATA[ Outdoor ]]>
+        </Category>
+        <Price>150</Price>
+        <CompareAtPrice>170</CompareAtPrice>
+        <ProductURL>
+            <![CDATA[ https://examplestore.com/product102 ]]>
+        </ProductURL>
+        <ManufacturerSKU>
+            <![CDATA[ manu102 ]]>
+        </ManufacturerSKU>
+        <ManufacturerName>
+            <![CDATA[ Brand Y ]]>
+        </ManufacturerName>
+        <EAN>
+            <![CDATA[ 9876543210987 ]]>
+        </EAN>
+        <Quantity>30</Quantity>
+        <ImageURL>
+            <![CDATA[ https://examplestore.com/images/product102.jpg ]]>
+        </ImageURL>
+    </product>
+</products>
+</rss>
