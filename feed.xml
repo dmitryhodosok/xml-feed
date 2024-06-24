@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>1</id>
+        <name>Sample Product 1</name>
+        <description>This is a sample product description.</description>
+        <price>19.99</price>
+        <category>Electronics</category>
+        <availability>In Stock</availability>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Sample Product 2</name>
+        <description>This is another sample product description.</description>
+        <price>29.99</price>
+        <category>Home & Kitchen</category>
+        <availability>Out of Stock</availability>
+    </product>
+</products>
